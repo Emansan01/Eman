@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="styles.css">
+    <title>Introduction</title>
+</head>
+<body>
+    <header>
+        <h1>My Website</h1>
+    </header>
+    <nav>
+        <ul>
+            <li><a href="index.html">Introduction</a></li>
+            <li><a href="origami.html">Origami</a></li>
+            <li><a href="travel.html">Travel</a></li>
+            <li><a href="music.html">Music</a></li>
+            <li><a href="workingout.html">Working Out</a></li>
+        </ul>
+    </nav>
+    <main>
+        <article>
+            <article>
+			<h2>About Me</h2>
+			<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit...</p>
+			<p>Proin dapibus, enim vel ultricies ultrices, nisl elit luctus purus...</p>
+    <figure>
+        <img src="https://images.unsplash.com/photo-1597595452120-855581c199f5?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D" alt="Placeholder Image 1">
+        <figcaption>I am me</figcaption>
+    </figure>
+</article>
+    </main>
+    <footer>
+        <p>&copy; 2024 My Website</p>
+    </footer>
+</body>
+</html>
